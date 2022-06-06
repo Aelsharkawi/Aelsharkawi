@@ -32,7 +32,7 @@
 
 <h1>My Skills</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelsharkawi &count_private=true&theme=dracula">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelsharkawi&count_private=true&theme=dracula">
   </br>
   </br>
     </br>
