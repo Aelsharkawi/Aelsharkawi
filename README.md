@@ -5,7 +5,7 @@
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aelsharkawi ?label=My%20Followers&style=social">
 
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
-<h2>  I'm Abdullah Elsharkawi  :grinning: and i'm a Software Engineer 💻 from EGYPT 🐪<h2>
+<h2>  I'm Abdullah Elsharkawi  :grinning: and I'm a Software Engineer 💻 from EGYPT 🐪<h2>
 <h4>looking to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.</h4>
 
   </br>
@@ -49,7 +49,7 @@
   
   <h1>My Github Stats :octocat: </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aelsharkawi &hide=stars&show_icons=true&theme=algolia&line_height=40&count_private=true&show_owner=true">  
+<img src="https://github-readme-stats.vercel.app/api?username=abanoubsamir-28&hide=stars&show_icons=true&theme=algolia&line_height=40&count_private=true&show_owner=true">
 </p>
 
 <p align="center">
