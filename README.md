@@ -15,7 +15,7 @@
 
 **About Me!**
 
-- 💼 I Have a Bachelor's degree in Computer Science Engineering.
+- 💼 I have a Bachelor's degree in Computer Science Engineering.
 - 🤔 My interests are Problem Solving, Algorithms and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [abdullah.elsharqawi@hotmail.com].
