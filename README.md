@@ -1,7 +1,7 @@
 <h1> Hi there 👋</h1>
 <h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻 </h2>
 
-[![Visits Badge](https://badges.pufler.dev/visits/Aelsharkawi)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Aelsharkawi /Aelsharkawi)](https:braydoncoyer.dev)
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aelsharkawi ?label=My%20Followers&style=social">
 
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
