@@ -1,7 +1,7 @@
 <h1> Hi there 👋</h1>
 <h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻 </h2>
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aelsharkawi
+<img src="https://hits.seeyoufarm.com/api?username=Aelsharkawi&hide=stars&show_icons=true&theme=algolia&line_height=40&count_private=true&show_owner=true">
 
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
 <h2>  I'm Abdullah Elsharkawi  :grinning: and I'm a Software Engineer 💻 from EGYPT 🐪<h2>
