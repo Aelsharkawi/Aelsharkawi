@@ -1,7 +1,6 @@
 <h1> Hi there 👋</h1>
 <h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻 </h2>
 
-<img src="https://hits.seeyoufarm.com/api?username=Aelsharkawi&hide=stars&show_icons=true&theme=algolia&line_height=40&count_private=true&show_owner=true">
 
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
 <h2>  I'm Abdullah Elsharkawi  :grinning: and I'm a Software Engineer 💻 from EGYPT 🐪<h2>
@@ -38,6 +37,8 @@
   </br>
   
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white&color=4AB197)
+</br>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=JIRA&logoColor=white&color=4AB197)
