@@ -1,6 +1,8 @@
 <h1> Hi there 👋</h1>
 <h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻 </h2>
 
+[![Visits Badge](https://badges.pufler.dev/visits/Aelsharkawi/Aelsharkawi)](https:braydoncoyer.dev)
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aelsharkawi?label=My%20Followers&style=social">
 
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
 <h2>  I'm Abdullah Elsharkawi  :grinning: and I'm a Software Engineer 💻 from EGYPT 🐪<h2>
@@ -38,11 +40,14 @@
   
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+</br>
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white&color=4AB197)
 </br>
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=GIT&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=JIRA&logoColor=white&color=4AB197)
   
    </br>
